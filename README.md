@@ -16,7 +16,7 @@ By contributing to LambdaTest's open-source repositories, you will:
 
 ## 🌟 Get Started
 1. Register for Hacktoberfest 2024 at [Hacktoberfest](https://hacktoberfest.com).
-2. Fork one of our supporting projects and start contributing by fixing bugs, improving documentation, or adding features.
+2. Fork one of [our supporting projects](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024?tab=readme-ov-file#-projects-you-can-contribute-to) and start contributing by fixing bugs, improving documentation, or adding features.
 3. Submit your PRs (pull requests) and get them reviewed by our team.
 
 ## 📂 Projects You Can Contribute To
@@ -43,8 +43,8 @@ By contributing to LambdaTest's open-source repositories, you will:
 
 ## 🎁 Prizes and Rewards
 Apart from official Hacktoberfest swag, contributors to our projects will get a chance to win:
-- **3 Contributions** – Amazon Vouchers (upto $10) + LambdaTest Trial (90 days).
-- **5 Contributions or More** – Amazon Vouchers (upto $20) + LambdaTest Trial (90 days).
+- **3 Contributions** – Amazon Vouchers (upto $10) + LambdaTest Lisenses (90 days).
+- **5 Contributions or More** – Amazon Vouchers (upto $20) + LambdaTest Lisenses (90 days).
 
 ## 📑 Contribution Guidelines
 Please make sure to read and follow our Contribution Guidelines and Code of Conduct before submitting any pull requests. It helps ensure that all contributions align with our standards and makes the review process faster.
